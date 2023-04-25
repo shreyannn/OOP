@@ -1,0 +1,10 @@
+ctrl + p                          search component
+ctrl + shift + p
+ctrl + d                          select similar word
+ctrl + shift + S                  screenshot
+alt  + up/down                    move the line
+alt  + up/down                    move the line
+alt  + shift  +  up/down          copy the line
+ctrl  +  l
+ctrl +  /
+ctrl + '                          opens terminal

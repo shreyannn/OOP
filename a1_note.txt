@@ -1,0 +1,10 @@
+* Advantages to using the C++ I/O stream classes
+
+-> Although input and output are implemented with streams for both C and C++, 
+   the C++ I/O stream classes provide the same facilities for input and output as C stdio.h.
+
+   The I/O stream classes in the Standard C++ Library have the following advantages:
+
+i)  The input (>>) operator and output (<<) operator are typesafe. These operators are easier to use than scanf() and printf().
+ii) You can overload the input and output operators to define input and output for your own types and classes.
+     This makes input and output across types, including your own, uniform.
